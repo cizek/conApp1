@@ -1,0 +1,14 @@
+C:\Users\cizek2\source\repos\conApp1\conApp1\bin\Debug\net8.0\conApp1.exe
+C:\Users\cizek2\source\repos\conApp1\conApp1\bin\Debug\net8.0\conApp1.deps.json
+C:\Users\cizek2\source\repos\conApp1\conApp1\bin\Debug\net8.0\conApp1.runtimeconfig.json
+C:\Users\cizek2\source\repos\conApp1\conApp1\bin\Debug\net8.0\conApp1.dll
+C:\Users\cizek2\source\repos\conApp1\conApp1\bin\Debug\net8.0\conApp1.pdb
+C:\Users\cizek2\source\repos\conApp1\conApp1\obj\Debug\net8.0\conApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cizek2\source\repos\conApp1\conApp1\obj\Debug\net8.0\conApp1.AssemblyInfoInputs.cache
+C:\Users\cizek2\source\repos\conApp1\conApp1\obj\Debug\net8.0\conApp1.AssemblyInfo.cs
+C:\Users\cizek2\source\repos\conApp1\conApp1\obj\Debug\net8.0\conApp1.csproj.CoreCompileInputs.cache
+C:\Users\cizek2\source\repos\conApp1\conApp1\obj\Debug\net8.0\conApp1.dll
+C:\Users\cizek2\source\repos\conApp1\conApp1\obj\Debug\net8.0\refint\conApp1.dll
+C:\Users\cizek2\source\repos\conApp1\conApp1\obj\Debug\net8.0\conApp1.pdb
+C:\Users\cizek2\source\repos\conApp1\conApp1\obj\Debug\net8.0\conApp1.genruntimeconfig.cache
+C:\Users\cizek2\source\repos\conApp1\conApp1\obj\Debug\net8.0\ref\conApp1.dll
